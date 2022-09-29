@@ -1,0 +1,53 @@
+.cryptophotoimg{
+    height: 100px;
+}
+body{
+    background-color: #AFEEEE;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    height: 100px;
+}
+.title{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+    font-family: 'Calibri';
+    background: white;
+}
+.list{
+    background: white;
+    line-height: 25px;
+}
+.list li{
+    list-style: none;
+    display:inline-block;
+    text-align:center;
+
+}
+.list li a{
+    display:inline-block;
+    width: 130px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    color:black;
+    font-family: 'Calibri';
+    margin-right: 220px;
+    font-size: 20px;
+}
+.list li a:hover{
+    text-decoration: underline;
+    border: 1px solid;
+}
+.left{
+    display: inline-block;
+    font-family: 'Calibri';
+    width: 70%;
+}
+footer{
+    text-align: center;
+    background: white;
+    font-family: 'Calibri';
+    font-weight: bold;
+} 
